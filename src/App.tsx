@@ -14,6 +14,7 @@ function App() {
       <TrustSection />
       <CTA />
       <Contact />
+      <footer />
     </>
   );
 }
