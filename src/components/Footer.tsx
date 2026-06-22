@@ -1,5 +1,4 @@
 import {
-  FaWhatsapp,
   FaInstagram,
   FaMapMarkerAlt,
 } from "react-icons/fa";
